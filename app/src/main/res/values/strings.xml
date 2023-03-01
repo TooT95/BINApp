@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BIN</string>
+    <string name="text_bin">BIN</string>
+    <string name="text_search">Search</string>
+</resources>
